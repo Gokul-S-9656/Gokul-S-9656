@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gokul 👋
 
-<!--
-**Gokul-S-9656/Gokul-S-9656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Current Role
+Data Science Intern at Prodigy InfoTech
 
-Here are some ideas to get you started:
+## 📊 Skills
+- Python
+- Data Analysis
+- Pandas
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+Working on real-world data science projects and building a strong portfolio.
+
+## 🔗 Connect with Me
+- LinkedIn: [linkedin.com/in/gokuls-]
